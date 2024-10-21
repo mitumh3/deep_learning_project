@@ -4,3 +4,4 @@ local_slide_encoder.pth
 local_tile_encoder.pth
 *.svs
 prov-gigapath
+*.zip
